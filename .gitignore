@@ -1,0 +1,6 @@
+.vs
+/**/Debug
+*.vcxproj
+Lab_3n/Lab_3n.vcxproj.filters
+Lab_3n/Lab_3n.vcxproj
+Lab_3n/Lab_3n.vcxproj.user
