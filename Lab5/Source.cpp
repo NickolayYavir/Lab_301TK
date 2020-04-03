@@ -12,9 +12,9 @@ int main() {
 
 	for (int i = 0; i <= (int)strText.length(); i++) { 
 
-		if (strText[i] == 91) {
+		if (strText[i] == '[') {
 			
-			while (strText[i] != 93) {
+			while (strText[i] != ']') {
 
 				strText.erase(strText.begin() + i);
 				
